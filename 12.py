@@ -1,0 +1,9 @@
+n=int(input())
+t=n
+s=0
+if(n>0):
+    n=n/10
+    s=s+n*10
+    n=n%10
+if(t==s):
+    print("palindrome")
