@@ -1,5 +1,5 @@
-n=int(input())
-f=1
-for i in range(1,n+1):
-    f=f*i
-print(f)
+j=int(input())
+w=1
+for i in range(1,j+1):
+    w=w*i
+print(w)
