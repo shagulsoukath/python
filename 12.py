@@ -6,4 +6,6 @@ if(n>0):
     s=s+n*10
     n=n%10
 if(t==s):
-    print("palindrome")
+    print("yes")
+else:
+    print("no")
