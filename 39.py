@@ -1,3 +1,3 @@
-n=input()
-n=n.split()
-print(max(n))
+h=input()
+h=h.split()
+print(max(h))
