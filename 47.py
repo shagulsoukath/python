@@ -1,0 +1,8 @@
+s=int(input())
+d=input()
+d=d.split()
+d=list(map(int,d))
+d.sort()
+q=min(d)
+w=max(d)
+print(q,w)
