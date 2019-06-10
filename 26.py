@@ -1,4 +1,4 @@
-n=int(input())
+k=int(input())
 s=input()
 s=s.split()
 s.sort()
