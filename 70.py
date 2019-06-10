@@ -1,2 +1,2 @@
-p=int(input()
+p=int(input())
 print(p*2)
