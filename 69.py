@@ -6,4 +6,4 @@ d=a-s
 if(d%2==0):
     print("even")
 else:
-    print("no")
+    print("odd")
