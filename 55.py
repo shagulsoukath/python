@@ -7,6 +7,6 @@ for i in a:
 if(m%2==0):
     print("even")
 else:
-    print("no")
+    print("odd")
     
 
