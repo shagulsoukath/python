@@ -7,5 +7,5 @@ for i in f:
 if(s%2==0):
     print("even")
 else:
-    print("no")
+    print("odd")
 )
