@@ -1,9 +1,9 @@
 u=int(input())
-if(u>=0 or u<=10):
+if(u>=0 and u<=10):
     print("10")
-if(u>=11 or u<=20:
+elif(u>=11 and u<=20):
     print("20")
-if(u>=21 or u<=30):
+elif(u>=21 and u<=30):
     print("30")
-if(u>=31 or u<=40):
+elif(u>=31 and u<=40):
     print("40")
