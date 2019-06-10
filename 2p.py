@@ -1,0 +1,5 @@
+h=int(input())
+f=1
+for i in range(1,h+1):
+    f=f*i
+print(f)
