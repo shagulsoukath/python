@@ -1,0 +1,9 @@
+g=input()
+g=g.split()
+g=list(map(int,g))
+a=g[0]
+s=g[1]
+d=g[2]
+f=a*s
+h=f%d
+print(h)
