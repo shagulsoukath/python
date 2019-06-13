@@ -9,7 +9,7 @@ for i in h:
     if(i==a):
         c=c+1
 if(c>0):
-    print("yes")
+    print("Yes")
 else:
-    print("no")
+    print("No")
 
