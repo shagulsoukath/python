@@ -2,7 +2,13 @@ g=input()
 g=g.split()
 a=int(g[0])
 b=int(g[1])
-if(a%b==0):
+i=1
+k=0
+while(i!=a):
+    i=b*i
+    if(i>a):
+        break
+if(i==a):
     print("yes")
 else:
     print("no")
