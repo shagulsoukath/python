@@ -1,0 +1,7 @@
+h=input()
+h=h.split()
+a=int(h[1])
+g=input()
+g=g.split()
+g.sort()
+print(g[-a])
