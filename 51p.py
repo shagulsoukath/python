@@ -1,4 +1,4 @@
-x=int(input())
+p=int(input())
 g=input()
 g=g.split()
 g.sort()
