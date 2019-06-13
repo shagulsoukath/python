@@ -1,0 +1,5 @@
+h=int(input())
+g=input()
+g=g.split()
+g.sort()
+print(g[-2])
