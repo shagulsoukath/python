@@ -1,10 +1,10 @@
 g=input()
 b=input()
 
-c=0
+d=0
 if b in g:
-    c=c+1
-    print(c)
+    d=d+1
+    print(d)
 else:
  print("0")
  
