@@ -1,0 +1,5 @@
+g=input()
+g=g.split()
+a=int(g[0])
+b=int(g[1])
+print(a*b)
