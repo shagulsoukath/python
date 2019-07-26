@@ -1,4 +1,4 @@
-a=int(input())
+op=int(input())
 s=input().split()
 l=[]
 l2=[]
