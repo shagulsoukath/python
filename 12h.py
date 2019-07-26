@@ -1,9 +1,10 @@
-aa=input().split()
-b=int(aa[1])
+a=input().split()
+b=int(a[1])
 c=input().split()
 l=[]
 for i in c:
-    l.append(i)
+    l.append(int(i))
 l.sort()
-a=l[::-1]
-print(a[b-1])
+aa=l[::-1]
+print(aa[b-1])
+
