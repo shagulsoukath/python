@@ -13,4 +13,8 @@ for j in l:
 d=set(l3)
 g=list(d)
 g.sort()
-print(*g,sep=' ')
+if(len(g)==0):
+    print("unique")
+else:
+    print(*g,sep=' ')
+
